@@ -49,18 +49,18 @@ This project is a blog website developed using Node.js. It provides users with t
 
 ## Getting Started
 
-To start working with this project, follow these steps:
+To begin working with this project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/nptruong01/Blog.git`
-2. Install dependencies: Navigate to the `api` folder and run `npm install` to install the necessary backend dependencies.
-3. Configure your database: Set up your database and update the configuration in the `config.js` file.
-4. Run the backend: In the `api` folder, start the backend by running `npm start` or `node server.js`.
+1. **Clone the repository:** `git clone https://github.com/nptruong01/Blog.git`
+2. **Install dependencies:** Navigate to the `api` folder using `cd api` and then run `npm install` to install the required backend dependencies.
+3. **Configure your database:** Set up your database and update the configuration in the `config.js` file.
+4. **Run the backend:** In the `api` folder, start the backend by running `npm start` or `node server.js`.
 
-Now, for the frontend:
+For the frontend:
 
-1. Navigate to the `client` folder: Use `cd client` to move to the client folder.
-2. Install frontend dependencies: Run `npm install` to install the frontend dependencies.
-3. Run the frontend: Start the frontend by running `npm start`.
+1. **Navigate to the `client` folder:** Use `cd client` to move to the client folder.
+2. **Install frontend dependencies:** Run `npm install` to install the frontend dependencies.
+3. **Run the frontend:** Start the frontend by running `npm start`.
 
 By now, you should have both the backend (API) and frontend (client) running. You can access the application in your web browser at `http://localhost:3000` (or a different port if you've configured it differently).
 
