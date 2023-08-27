@@ -1,4 +1,4 @@
-# Blog Website using Node.js
+# Blog Website using Node.js.
 
 <div align="center">
   <img src="https://github.com/nptruong01/Blog/assets/113322089/3c4e1fee-d992-4eac-acb9-81426a218345" alt="Blog">
